@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/efa218d32ed1f845e249c9e0b4f0bdda1f0ca56f/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/efa218d32ed1f845e249c9e0b4f0bdda1f0ca56f/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/efa218d32ed1f845e249c9e0b4f0bdda1f0ca56f/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/efa218d32ed1f845e249c9e0b4f0bdda1f0ca56f/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

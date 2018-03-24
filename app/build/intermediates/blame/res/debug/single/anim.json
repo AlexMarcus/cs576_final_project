@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/efa218d32ed1f845e249c9e0b4f0bdda1f0ca56f/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/efa218d32ed1f845e249c9e0b4f0bdda1f0ca56f/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/efa218d32ed1f845e249c9e0b4f0bdda1f0ca56f/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/efa218d32ed1f845e249c9e0b4f0bdda1f0ca56f/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/efa218d32ed1f845e249c9e0b4f0bdda1f0ca56f/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/efa218d32ed1f845e249c9e0b4f0bdda1f0ca56f/output/res/anim/design_fab_out.xml"
+    }
+]

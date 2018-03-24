@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/alexmarcus/AndroidStudioProjects/CS576/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

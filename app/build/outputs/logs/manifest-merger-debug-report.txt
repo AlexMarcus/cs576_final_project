@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_GPS
+ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:6:5-69
+	android:name
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:6:22-66
+uses-permission#android.permission.ACCESS_LOCATION
+ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:7:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:10:22-64
+application
+ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:12:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/alexmarcus/.android/build-cache/dfcd10e7fd1fef43a397ccfea763f8fb25cc9ffa/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/alexmarcus/.android/build-cache/efa218d32ed1f845e249c9e0b4f0bdda1f0ca56f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/alexmarcus/.android/build-cache/2a1b11ab418efeb9b2b731976dc7193b1b75db27/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/alexmarcus/.android/build-cache/1f3a153496b7b44c384a81766a811fbc1c336b23/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/alexmarcus/.android/build-cache/85e994d520fbe6450ad7bfe61c1527a5dd5ac941/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/alexmarcus/.android/build-cache/6bed8967854d3c618e3a8db5103b208a280668b0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/alexmarcus/.android/build-cache/f6ecc8ce8a18488157902588612c67817f49f76b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/alexmarcus/.android/build-cache/ef43b3664c41ed88aae8a17326556cf03277d893/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/alexmarcus/.android/build-cache/c5239389ffc83c646459c6f32a0b7317504e5f33/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/alexmarcus/.android/build-cache/5d24b49b59e82a7dbbe73daf9a16e5a6681cc487/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/alexmarcus/.android/build-cache/12d8f6d49cd1eb1cfb519b1ce984eb430809ee58/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:16:9-54
+	android:allowBackup
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.example.cs576.MainActivity
+ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:19:9-28:20
+	android:label
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/alexmarcus/.android/build-cache/dfcd10e7fd1fef43a397ccfea763f8fb25cc9ffa/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /Users/alexmarcus/.android/build-cache/efa218d32ed1f845e249c9e0b4f0bdda1f0ca56f/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/alexmarcus/.android/build-cache/2a1b11ab418efeb9b2b731976dc7193b1b75db27/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/alexmarcus/.android/build-cache/1f3a153496b7b44c384a81766a811fbc1c336b23/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/alexmarcus/.android/build-cache/f54204ece58c7566fc405baa3b6e620184ad79bf/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/alexmarcus/.android/build-cache/85e994d520fbe6450ad7bfe61c1527a5dd5ac941/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/alexmarcus/.android/build-cache/6bed8967854d3c618e3a8db5103b208a280668b0/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/alexmarcus/.android/build-cache/f6ecc8ce8a18488157902588612c67817f49f76b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/alexmarcus/.android/build-cache/ef43b3664c41ed88aae8a17326556cf03277d893/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/alexmarcus/.android/build-cache/c5239389ffc83c646459c6f32a0b7317504e5f33/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/alexmarcus/.android/build-cache/5d24b49b59e82a7dbbe73daf9a16e5a6681cc487/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/alexmarcus/.android/build-cache/12d8f6d49cd1eb1cfb519b1ce984eb430809ee58/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/alexmarcus/.android/build-cache/efa218d32ed1f845e249c9e0b4f0bdda1f0ca56f/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexmarcus/AndroidStudioProjects/CS576/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/alexmarcus/.android/build-cache/efa218d32ed1f845e249c9e0b4f0bdda1f0ca56f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/alexmarcus/.android/build-cache/6d22f66dbeca1d11c2651c2e6d4011a87a220d27/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/alexmarcus/.android/build-cache/2a1b11ab418efeb9b2b731976dc7193b1b75db27/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/alexmarcus/.android/build-cache/1f3a153496b7b44c384a81766a811fbc1c336b23/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/alexmarcus/.android/build-cache/f54204ece58c7566fc405baa3b6e620184ad79bf/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/alexmarcus/.android/build-cache/85e994d520fbe6450ad7bfe61c1527a5dd5ac941/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/alexmarcus/.android/build-cache/6bed8967854d3c618e3a8db5103b208a280668b0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/alexmarcus/.android/build-cache/f6ecc8ce8a18488157902588612c67817f49f76b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/alexmarcus/.android/build-cache/ef43b3664c41ed88aae8a17326556cf03277d893/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/alexmarcus/.android/build-cache/c5239389ffc83c646459c6f32a0b7317504e5f33/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/alexmarcus/.android/build-cache/5d24b49b59e82a7dbbe73daf9a16e5a6681cc487/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/alexmarcus/.android/build-cache/12d8f6d49cd1eb1cfb519b1ce984eb430809ee58/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/alexmarcus/.android/build-cache/efa218d32ed1f845e249c9e0b4f0bdda1f0ca56f/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/alexmarcus/.android/build-cache/efa218d32ed1f845e249c9e0b4f0bdda1f0ca56f/output/AndroidManifest.xml:26:9-47
